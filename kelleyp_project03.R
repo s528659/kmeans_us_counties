@@ -1,3 +1,5 @@
+#I AM ADDING A COMMENT
+
 # Name: Paige Kelley
 # Course: 44-149 Scientific Computing
 # Assignment # Project 3
